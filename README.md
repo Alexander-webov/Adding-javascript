@@ -2,4 +2,4 @@
 
 - slider, timer, form, cart menu, pop-up window, tabs
 
-https://alexander-webov.github.io/Adding-javascript/.
+## Demo: https://alexander-webov.github.io/Adding-javascript/.
