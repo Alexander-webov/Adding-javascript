@@ -45,7 +45,7 @@ tabspanel.addEventListener('click', (e)=>{
 // ==============
 
 
-const deadline = '2020-10-31';
+const deadline = '2020-12-31';
 
 const getTimeRemaining = (endtime) => {
   const t = Date.parse(endtime) - Date.parse(new Date()),
